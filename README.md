@@ -2,15 +2,6 @@
 
 GUI Password Generator built with Python and Tkinter featuring customizable password rules and strength analysis.
 
-## Topics
-
- -python
- -tkinter
- -gui
- -password-generator
- -desktop-application
- -cybersecurity
-
 ## Features
 
 - Generate secure passwords instantly
