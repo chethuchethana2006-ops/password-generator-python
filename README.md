@@ -30,6 +30,17 @@ password-generator-python/
 - String
 - Datetime
 
+## Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main-interface.png)
+
+### Custom Uppercase Requirement
+![Uppercase Requirement](screenshots/min-uppercase.png)
+
+### Custom Special Character Requirement
+![Special Requirement](screenshots/min-special.png)
+
 ## Password Strength Levels
 
 | Score | Strength |
