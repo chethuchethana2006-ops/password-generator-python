@@ -39,6 +39,14 @@ password-generator-python/
 | 60 - 79 | Strong |
 | 80 - 100 | Very Strong |
 
+## Future Improvements
+
+- Dark/Light theme switch
+- Password history manager
+- Password export to CSV
+- Master password protection
+- Secure password generation using secrets module
+  
 ##Author
 
  Chethana M M
