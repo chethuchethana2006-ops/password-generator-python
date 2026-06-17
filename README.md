@@ -30,6 +30,15 @@ password-generator-python/
 - String
 - Datetime
 
+## Password Strength Levels
+
+| Score | Strength |
+|---------|----------|
+| 0 - 39 | Weak |
+| 40 - 59 | Moderate |
+| 60 - 79 | Strong |
+| 80 - 100 | Very Strong |
+
 ##Author
 
  Chethana M M
