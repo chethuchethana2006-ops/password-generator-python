@@ -20,3 +20,7 @@ A GUI-based Password Generator built using Python and Tkinter.
 - Random
 - String
 - Datetime
+
+##Author
+
+Chethana M M
