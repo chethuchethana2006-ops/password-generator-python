@@ -23,4 +23,4 @@ A GUI-based Password Generator built using Python and Tkinter.
 
 ##Author
 
-Chethana M M
+ Chethana M M
