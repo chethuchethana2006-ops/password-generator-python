@@ -33,13 +33,16 @@ password-generator-python/
 ## Screenshots
 
 ### Main Interface
-![Main Interface](screenshots/main-interface.png)
+<img width="1056" height="1027" alt="Screenshot 2026-06-17 213219" src="https://github.com/user-attachments/assets/e542ecaf-8348-44c4-8acc-fcd6f41991cf" />
+
 
 ### Custom Uppercase Requirement
-![Uppercase Requirement](screenshots/min-uppercase.png)
+<img width="1062" height="1025" alt="Screenshot 2026-06-17 213253" src="https://github.com/user-attachments/assets/0d8ba1c8-e22c-48e0-a6dc-816fc2ce09be" />
+
 
 ### Custom Special Character Requirement
-![Special Requirement](screenshots/min-special.png)
+<img width="1062" height="1017" alt="Screenshot 2026-06-17 213414" src="https://github.com/user-attachments/assets/2ffde78a-56a2-4146-9b49-46cc1bc17a5b" />
+
 
 ## Password Strength Levels
 
