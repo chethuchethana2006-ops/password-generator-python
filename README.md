@@ -13,6 +13,15 @@ A GUI-based Password Generator built using Python and Tkinter.
 - Save passwords to a text file
 - Easy-to-use GUI
 
+## Project Structure
+
+```text
+password-generator-python/
+│
+├── password_generator.py
+└── README.md
+```
+
 ## Technologies Used
 
 - Python
