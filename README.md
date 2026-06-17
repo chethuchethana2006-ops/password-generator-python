@@ -1,6 +1,6 @@
 # Password Generator Pro
 
-A GUI-based Password Generator built using Python and Tkinter.
+GUI Password Generator built with Python and Tkinter featuring customizable password rules and strength analysis.
 
 ## Features
 
